@@ -1,2 +1,5 @@
  les premieres lignes de code:
- Comme je ne sais pas encolre coder , je mets n'importe quoi.
+ Comme je ne sais pas encolre coder , je mets n'importe quoi .
+
+ Modifcation du programme: 
+   voici mon nouveau code   
